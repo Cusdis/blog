@@ -18,3 +18,5 @@ So we are introducing our official Telegram bot now. It's super easy to setup:
 Besides, this bot works for both hosted service and self-host service. 
 
 See more about the Webhook in [documentation](https://cusdis.com/doc#/advanced/webhook).
+
+Here is the source code of this bot: https://github.com/djyde/cusdis-telegram-bot
