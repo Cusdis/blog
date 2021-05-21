@@ -1,6 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-
+import { ReactCusdis } from 'react-cusdis'
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -31,7 +31,19 @@ const BlogPostTemplate = ({ data, location }) => {
         />
         <hr />
         <footer>
-          <Bio />
+          <h3>Comments</h3>
+          <div style={{
+            marginBottom: '1rem'
+          }}>
+            <ReactCusdis
+              attrs={{
+                host: 'https://cusdis.com',
+                appId: "4a7dd86a-d363-44d0-af95-b783f1aea56b",
+                pageId: post.id,
+                pageTitle: post.frontmatter.title,
+              }}
+            />
+          </div>
         </footer>
       </article>
       <nav className="blog-post-nav">

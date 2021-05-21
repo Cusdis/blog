@@ -10783,6 +10783,11 @@ rc@^1.2.7, rc@^1.2.8:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+react-cusdis@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/react-cusdis/-/react-cusdis-2.0.1.tgz#88d8a8e88be9c8a80b33974d151311c3378acc7a"
+  integrity sha512-8oWF5GdsKUx+l9A58GkYJc6yiYNiF7vw9cZHGLcX0z2MyznwLXizBgPfIFvVV7kdsapdjeium/Ox1J3rR+ZQnw==
+
 react-dev-utils@^11.0.3:
   version "11.0.4"
   resolved "https://registry.yarnpkg.com/react-dev-utils/-/react-dev-utils-11.0.4.tgz#a7ccb60257a1ca2e0efe7a83e38e6700d17aa37a"
