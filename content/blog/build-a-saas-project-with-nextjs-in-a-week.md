@@ -380,7 +380,8 @@ module.exports = {
 
 ## Wrapping up
 
-All of these tools combine together makes me build a full-stack SaaS project so fast:
+
+[Cusdis](https://cusdis.com) spent me one week to release the first version. Now there are around 50 active websites using Cusdis as their comment system. More than 10 people [sponsor](https://opencollective.com/cusdis) this project. All of these tools combine together makes me build a full-stack SaaS project so fast:
 
 - [next-auth](https://next-auth.js.org) to integrate third-party login in a minute
 - [next-connect](https://github.com/hoangvvo/next-connect) to add a middleware layer in Next.js and comes with a better error handling solution
