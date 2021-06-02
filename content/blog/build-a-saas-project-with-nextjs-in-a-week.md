@@ -1,5 +1,5 @@
 ---
-title: How did I build a SaaS with Next.js in a week
+title: How I built a SaaS with Next.js in a week
 date: 2021-06-02
 ---
 
