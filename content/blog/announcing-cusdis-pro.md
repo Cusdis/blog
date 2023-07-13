@@ -3,7 +3,7 @@ title: "Announcing Cusdis Pro plan"
 date: 2023-07-13
 ---
 
-On an evening in April 2021, I started to write a commenting system for my blog, similar to Disqus. My goal was simple: to create a smaller and more easily integrated alternative to Disqus. I named it Cusdis, which is Disqus spelled backwards.
+On an evening in April 2021, I started to write a commenting system for my blog, similar to Disqus. My goal was simple: to create a smaller and more easily integrated alternative to Disqus. I named it [Cusdis](https://cusdis.com), which is Disqus spelled backwards.
 
 After just one week of coding, I opened the project to the public and posted it on Hacker News before going to bed. As usual, I assumed that the project would be ignored.
 
@@ -19,8 +19,8 @@ Recently, I left my job and had more time, so I decided to continue maintaining 
 
 After redesigning the project and integrating a payment channel, I launched a $5/month paid plan. The free version has some limitations, such as 
 
-  - allowing only one site to be created
-  - approving up to 100 comments per month (which should be sufficient for small blogs)
+  - Allowing only 1 site to be created
+  - Approving up to 100 comments per month (which should be sufficient for small blogs)
   - 10 Quick Approve actions per month (which is convenient for approving comments on a mobile phone without logging in). 
   
 However, for $5 per month, these limitations are removed.
